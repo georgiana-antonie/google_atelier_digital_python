@@ -1,0 +1,4 @@
+Ia lapte, 30.01, Mara, cumparaturi
+Termina task, 10.02, Ion, munca
+Invata,01.02, Ana, scoala
+Fa temele, 20.02, Ana, scoala
